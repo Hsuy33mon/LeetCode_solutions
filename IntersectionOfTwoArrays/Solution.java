@@ -1,6 +1,7 @@
 package IntersectionOfTwoArrays;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Solution {
     public static void main(String[] args) {
@@ -19,6 +20,7 @@ public class Solution {
             if(set1.contains(j)){
                 set2.add(j);
             }
+            
         }
         int[] ans = new int[set2.size()];
         int indx = 0;
