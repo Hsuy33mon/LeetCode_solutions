@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search;
+package Interview_questions.Binary_Search.Parametric_BS;
 
 // https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
 // Leetcode - 1011

@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search;
+package Interview_questions.Binary_Search.Parametric_BS;
 // https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 // Leetcode - 1283
 public class Smallest_divisor {

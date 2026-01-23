@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search;
+package Interview_questions.Binary_Search.Boundary_BS;
 // https://leetcode.com/problems/search-insert-position/description/
 // Leetcode - 35
 public class SearchInsertPosition {

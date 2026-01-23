@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search;
+package Interview_questions.Binary_Search.Boundary_BS;
 //  https://leetcode.com/problems/valid-perfect-square/
 //  Leetcode - 367
 public class ValidPerfectSquare {
