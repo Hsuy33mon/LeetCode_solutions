@@ -2,7 +2,7 @@ package Interview_questions.Binary_Search.Rotated_BS;
 
 // https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 // Leetcode - 81
-public class SearchInSortedArray2 {
+public class SearchInRotatedSortedArray2 {
     public boolean search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
