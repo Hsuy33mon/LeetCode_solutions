@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Rotated_BS;
+package Interview_practices.Binary_Search.Rotated_BS;
 
 // https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 // Leetcode - 81

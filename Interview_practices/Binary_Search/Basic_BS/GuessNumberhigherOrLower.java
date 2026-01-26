@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Basic_BS;
+package Interview_practices.Binary_Search.Basic_BS;
 
 // https://leetcode.com/problems/guess-number-higher-or-lower/
 // Leetcode = 374

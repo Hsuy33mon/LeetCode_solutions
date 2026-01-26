@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Parametric_BS;
+package Interview_practices.Binary_Search.Parametric_BS;
 // https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 // Leetcode - 1482
 public class MinimumDaysToMakeBouquet {

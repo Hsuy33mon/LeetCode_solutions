@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Rotated_BS;
+package Interview_practices.Binary_Search.Rotated_BS;
 // https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 // Leetcode - 153
 public class FindMinimumInRotatedSortedArray {

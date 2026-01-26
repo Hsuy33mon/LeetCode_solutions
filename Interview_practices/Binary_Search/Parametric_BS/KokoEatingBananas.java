@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Parametric_BS;
+package Interview_practices.Binary_Search.Parametric_BS;
 // https://leetcode.com/problems/koko-eating-bananas/
 //  Leetcode - 875
 public class KokoEatingBananas {

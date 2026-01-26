@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Special_BS;
+package Interview_practices.Binary_Search.Special_BS;
 // https://leetcode.com/problems/find-peak-element/
 // Leetcode - 162
 public class FindPeakElement {
@@ -8,10 +8,10 @@ public class FindPeakElement {
 
         while(left<right){
             int mid = left+ (right-left)/2;
-            if(nums[mid] > nums[right]){
-                right--;
+            if(nums[mid] > nums[mid + 1]){
+                right = mid;
             }else{
-                left++;
+                left = mid + 1;
             }
         }
         return left;

@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Basic_BS;
+package Interview_practices.Binary_Search.Basic_BS;
 // https://leetcode.com/problems/first-bad-version/
 // Leetcode - 278
 public class FirstBadVersion {

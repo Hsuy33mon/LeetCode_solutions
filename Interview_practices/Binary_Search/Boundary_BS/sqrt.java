@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Boundary_BS;
+package Interview_practices.Binary_Search.Boundary_BS;
 // https://leetcode.com/problems/sqrtx/
 // Leetcode - 69
 public class sqrt {

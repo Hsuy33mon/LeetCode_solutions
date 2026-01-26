@@ -1,4 +1,4 @@
-package Interview_questions.Binary_Search.Basic_BS;
+package Interview_practices.Binary_Search.Basic_BS;
 
 public class Classic_bs {
     
